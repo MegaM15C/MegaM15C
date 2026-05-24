@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi there 👋 I'm a Backend Developer</h1>
 
 <p align="center">
@@ -77,4 +76,3 @@ Auth:       JWT
 <p align="center">
   Minimal, production-oriented backend development.
 </p>
-```
