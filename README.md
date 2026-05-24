@@ -1,8 +1,4 @@
-<h1 align="center">Hi there 👋 I'm a Backend Developer</h1>
-
-<p align="center">
-  Self-taught developer focused on building scalable backend systems and APIs.
-</p>
+<h1 align="center">Backend Developer</h1>
 
 ---
 
@@ -41,35 +37,12 @@
   <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/VK_API-4680C2?style=for-the-badge&logo=vk&logoColor=white" />
 </p>
-
----
-
-## 📊 Tech Overview
-
-```text
-Backend:    NestJS • Node.js • TypeScript • Bun • Prisma
-Python:     FastAPI • SQLAlchemy
-Infra:      Docker • Linux
-APIs:       Telegram API • VK API
-Auth:       JWT
-````
-
----
-
-## 📌 Focus Areas
-
-* Backend architecture design
-* API development and integration
-* Authentication systems (JWT)
-* Telegram/VK bot development
-* Database design with Prisma / SQLAlchemy
-
 ---
 
 ## 📫 Contact
 
-* Telegram: (add link here)
-* Email: (add here)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorlok1e)
+* Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](belyhm659@gmail.com)
 
 ---
 
